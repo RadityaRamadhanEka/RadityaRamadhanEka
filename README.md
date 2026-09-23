@@ -6,7 +6,7 @@ An **Informatics Engineering Student** at Universitas Brawijaya with a strong pa
 
 ### 🚀 About Me
 - 🎓 Undergraduate Student in **Informatics Engineering** at **Universitas Brawijaya**
-- 💻 Tech Stack & Interests: **Laravel**, **Android (Kotlin Compose)**, **Python / PyTorch**, **MySQL**, and **Cloud & Dev Workflows**
+- 💻 Tech Stack & Interests: **Laravel**, **Android (Kotlin Compose)**, **Python / PyTorch**, **Java**, **MySQL**, and **Cloud & Dev Workflows**
 - 🏫 Active in campus organizations, teaching assistantships, and tech communities
 - ⚡ Fun fact: Love exploring local AI models and optimizing developer CLI setups
 
@@ -15,10 +15,11 @@ An **Informatics Engineering Student** at Universitas Brawijaya with a strong pa
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -33,12 +34,11 @@ An **Informatics Engineering Student** at Universitas Brawijaya with a strong pa
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadityaRamadhanEka&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=RadityaRamadhanEka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Raditya Ramadhan](www.linkedin.com/in/radityaramadhanekawidhianto) 
+- **LinkedIn:** [Raditya Ramadhan](https://www.linkedin.com/in/radityaramadhanekawidhianto)  
 - **Website/Portfolio:** [radityaramadhaneka.github.io](https://radityaramadhaneka.github.io)
-- **Email:** *tayaradit4@gmail.com*
+- **Email:** tayaradit4@gmail.com
