@@ -32,13 +32,13 @@ An **Informatics Engineering Student** at Universitas Brawijaya with a strong pa
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RadityaRamadhanEka&show_icons=true&theme=tokyonight&hide_border=true" alt="Raditya's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=RadityaRamadhanEka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadityaRamadhanEka&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=RadityaRamadhanEka&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [Raditya Ramadhan](https://linkedin.in/in/) *(Isi link LinkedIn)*
+- **LinkedIn:** [Raditya Ramadhan](www.linkedin.com/in/radityaramadhanekawidhianto) 
 - **Website/Portfolio:** [radityaramadhaneka.github.io](https://radityaramadhaneka.github.io)
 - **Email:** *tayaradit4@gmail.com*
