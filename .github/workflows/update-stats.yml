@@ -1,0 +1,16 @@
+name: Update Profile Stats Daily
+
+on:
+  schedule:
+    # Berjalan otomatis setiap hari pukul 00:00 UTC (07:00 WIB)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Memungkinkan untuk dijalankan secara manual
+
+jobs:
+  refresh-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Cache Refresh
+        run: |
+          curl -s -X PURGE "https://github-readme-stats.vercel.app/api?username=RadityaRamadhanEka&show_icons=true&theme=tokyonight&hide_border=true" || true
+          curl -s -X PURGE "https://github-readme-streak-stats.herokuapp.com/?user=RadityaRamadhanEka&theme=tokyonight&hide_border=true" || true
