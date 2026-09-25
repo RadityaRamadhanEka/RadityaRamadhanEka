@@ -33,7 +33,8 @@ An **Informatics Engineering Student** at Universitas Brawijaya with a strong pa
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadityaRamadhanEka&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RadityaRamadhanEka&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="Raditya's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RadityaRamadhanEka&theme=tokyonight&hide_border=true&cache_seconds=3600" alt="GitHub Streak" height="150" />
 </p>
 
 ---
